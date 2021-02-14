@@ -3,7 +3,7 @@ import time
 import os
 import sys
 import pygame as pg
-
+ # Dummy comment
  # Set the window length and breadth  
  # (Make sure that the breadth is equal to size of array. [512])
 dimensions = (1024, 512)
