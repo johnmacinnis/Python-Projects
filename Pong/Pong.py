@@ -37,7 +37,7 @@ paddle_b.goto(350, 0)  # Paddle a starts at 350, right of screen
 ball = turtle.Turtle()
 ball.speed(0)
 ball.shape("square")
-ball.color("white")
+ball.color("red")
 ball.penup()
 ball.goto(0, 0)
 ball.dx = 0.5
